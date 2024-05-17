@@ -1,12 +1,13 @@
-# The RWAX
+## **The RWAX** - A Perpetual Futures with Real-World Asset (RWA) Indexes
 
 ![banner](/assets/banner.webp)
-
+<span align="center">
 [![Website](https://img.shields.io/badge/therwax.com-green)](https://therwax.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-green?logo=twitter&logoColor=black)](https://twitter.com/The_RWAX)
-[![Telegram](https://img.shields.io/badge/Telegram-green?logo=telegram&logoColor=black)](https://t.me/therwax)
-[![Blog](https://img.shields.io/badge/Medium-green?logo=medium&logoColor=black)](https://medium.com/@TheRWAX)
-[![Docs](https://img.shields.io/badge/docs-green?logo=gitbook&logoColor=black)](https://therwax.gitbook.io/rwax-docs/)
+[![Twitter](https://img.shields.io/badge/Twitter-green?logo=twitter&logoColor=white)](https://twitter.com/The_RWAX)
+[![Telegram](https://img.shields.io/badge/Telegram-green?logo=telegram&logoColor=white)](https://t.me/therwax)
+[![Blog](https://img.shields.io/badge/Medium-green?logo=medium&logoColor=white)](https://medium.com/@TheRWAX)
+[![Docs](https://img.shields.io/badge/docs-green?logo=gitbook&logoColor=white)](https://therwax.gitbook.io/rwax-docs/)
+</span>
 
 **The RWAX** is the premier perpetual futures DEX specializing in Real-World Asset (RWA) Indexes. From the Dark Web to Semiconductors, and from Pokemon Cards to Electric Vehicles, unlock access to unique markets that only exist in the real world, now brought onchain for the first time.
 
