@@ -1,4 +1,4 @@
-## **RWAX** - A Perpetual Futures with Real-World Asset (RWA) Indexes
+## **RWAX** - An onchain income layer for real-world assets — where every position is a cashflow.
 
 ![banner](/assets/banner.webp)
 <span align="center">
@@ -9,7 +9,7 @@
 [![Docs](https://img.shields.io/badge/docs-green?logo=gitbook&logoColor=white)](https://therwax.gitbook.io/rwax-docs/)
 </span>
 
-**RWAX** is the premier perpetual futures DEX specializing in Real-World Asset (RWA) Indexes. From the Dark Web to Semiconductors, and from Pokemon Cards to Electric Vehicles, unlock access to unique markets that only exist in the real world, now brought onchain for the first time.
+**RWAX** the income layer for real-world assets — where tokenized assets generate programmable income and power leveraged trading. Every position on RWAX is a cashflow.
 
 <!-- ### **Our Vision**
 
